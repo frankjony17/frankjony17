@@ -44,7 +44,7 @@
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/mongodb">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">  
